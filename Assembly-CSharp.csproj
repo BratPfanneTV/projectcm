@@ -240,6 +240,9 @@
     <Reference Include="Unity.Locator">
       <HintPath>G:/Programme/Unity/Editor/Data/Managed/Unity.Locator.dll</HintPath>
     </Reference>
+    <Reference Include="Facebook.Unity.Settings">
+      <HintPath>H:/Game_Project_CM/projectcm/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>G:/Programme/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
@@ -260,6 +263,9 @@
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>G:/Programme/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="Vuforia.UnityExtensions">
+      <HintPath>G:/Programme/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/HomeOffice/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
